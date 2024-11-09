@@ -1,4 +1,4 @@
-# Java Selenium Testing with TestNG
+# TestGenie: Java Selenium Testing with TestNG
 
 This project is designed for automated testing using **Selenium** WebDriver with **TestNG** framework. The tests are focused on verifying the functionality of various UI components and features on two websites, including input fields, buttons, dropdown menus, radio buttons, and more. Additionally, the project incorporates data-driven testing using Excel test cases, file upload functionality, SSL permissions testing, and image capture during test execution.
 
